@@ -1,6 +1,0 @@
-G11-Pet-Motion-Tracing
-PROJECT DESCRIPTION
-
-HOW TO USE
-To use:
-
